@@ -224,7 +224,6 @@ footer div.social-media-links p.copy {
   overflow: hidden;
   border-radius: 0.5rem;
   transition: 0.2s ease-in-out;
-  cursor: pointer;
 }
 .utiles .card-inner:before {
   /*efectoCards*/
